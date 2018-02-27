@@ -6,5 +6,5 @@ Asignatura _Herramientas y Métodos de ingenieria del Software_
 >practicas de la asignatura HMIS 
 :computer:
 
-**Para visitar mi perfil en GitHub haced click en este enlace** [Click aqui] (https://github.com/gmc456)
+**Para visitar mi perfil en GitHub haced click en este enlace** <a href= "https://github.com/gmc456"> Click aqui</a>
 
