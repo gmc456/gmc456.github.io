@@ -1,4 +1,4 @@
-/* ======================= GENERAL ======================= */
+﻿/* ======================= GENERAL ======================= */
 
 /**
  * La fuente principal de la web es Segoe UI, usando sans-serif en
@@ -128,7 +128,7 @@ header {
 
 #header-title>h1 {
   font-size: 65px;
-  line-height: .35;
+  
 }
 
 /**
@@ -278,4 +278,19 @@ footer li {
 .menu-list img {
   width: 40px;
   height: 40px;
+}
+
+#github-profile{
+  display: block;
+  text-align: center;
+}
+
+
+
+#github-profile i{
+  font-size:32px;
+}
+
+.fa-github{  
+  color:white;
 }
