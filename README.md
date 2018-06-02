@@ -14,6 +14,7 @@ Enlace a mi página Github [https://gmc456.github.io](https://gmc456.github.io)
 ## Sesion 02
 
 Virtual machine en azure -> **gmc456-hmis18-vm2**
+
 Nombre DNS -> **gmc456.northeurope.cloudapp.azure.com**
 
 
@@ -26,18 +27,22 @@ Nombre DNS -> **gmc456.northeurope.cloudapp.azure.com**
 **Contraseña GitLab**: 12345678
 
 DNS Máquina con Gitlab-> **nm-gitlab7.northeurope.cloudapp.azure.com**
+
 Repositorio Gitlab con ejercicios -> **ProyectoSesion3Ej1**
+
 DNS Máquina con Jenkins -> **gmc456.northeurope.cloudapp.azure.com**
 
 
 ## Sesion 04
 
 Repositorio página de equipo -> [https://github.com/gmc456/najjary-morales](https://github.com/gmc456/najjary-morales)
+
 URL página de equipo -> ****
 
 ## Sesion 05
 
 Repositorio Sesion 5 -> [https://github.com/gmc456/Sesion05gmc456](https://github.com/gmc456/Sesion05gmc456)
+
 Repositorio Ejercicio6 Sesion 5 -> [https://github.com/gmc456/Ejercicio6Sesion05](https://github.com/gmc456/Ejercicio6Sesion05)
 
 
