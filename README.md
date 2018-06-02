@@ -20,7 +20,9 @@ Nombre DNS -> **gmc456.northeurope.cloudapp.azure.com**
 ## Sesion 03
 
 **Usuario profesor para Jenkins y GitLab** : jjcanada
+
 **Contraseña Jenkins**: 4321
+
 **Contraseña GitLab**: 12345678
 
 DNS Máquina con Gitlab-> **nm-gitlab7.northeurope.cloudapp.azure.com**
