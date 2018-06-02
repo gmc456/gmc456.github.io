@@ -19,9 +19,9 @@ Nombre DNS -> **gmc456.northeurope.cloudapp.azure.com**
 
 ## Sesion 03
 
-Usuario profesor para Jenkins y GitLab : jjacanda
-Contraseña Jenkins: 4321
-Contraseña GitLab: 12345678
+**Usuario profesor para Jenkins y GitLab** : jjacanda
+**Contraseña Jenkins**: 4321
+**Contraseña GitLab**: 12345678
 
 DNS Máquina con Gitlab-> **nm-gitlab7.northeurope.cloudapp.azure.com**
 Repositorio Gitlab con ejercicios -> **ProyectoSesion3Ej1**
