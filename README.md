@@ -37,7 +37,7 @@ DNS Máquina con Jenkins -> **gmc456.northeurope.cloudapp.azure.com**
 
 Repositorio página de equipo -> [https://github.com/gmc456/najjary-morales](https://github.com/gmc456/najjary-morales)
 
-URL página de equipo -> ****
+URL página de equipo -> najjary-morales.northeurope.cloudapp.azure.com
 
 ## Sesion 05
 
